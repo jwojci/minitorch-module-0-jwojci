@@ -6,3 +6,11 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0/module0/
+
+Parameters used:
+
+linear.weight_0_0: -5.72
+linear.weight_1_0: -0.06
+linear.bias_0: 2.12
+
+<img src="https://github.com/jwojci/minitorch-module-0-jwojci/blob/master/newplot.png" width="50%">
